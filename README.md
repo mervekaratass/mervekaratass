@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Merve Karataş</h1>
-<h3 align="center">Back-End Developer(.Net Core) from Turkey</h3>
+<h3 align="center">Junior Full Stack Developer from Turkey</h3>
 <p >Hello, I’m Merve Karataş. My journey in web development, which began during my undergraduate studies, has continued with a focus on deepening my knowledge in both backend and frontend technologies. Through the projects I have developed and am currently developing, as well as the courses I have attended, I am continuously enhancing my expertise and skills in software development. I aim to advance my career as a Full Stack Developer and further elevate my competencies in this field.</p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
